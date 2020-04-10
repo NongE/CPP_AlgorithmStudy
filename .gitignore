@@ -1,0 +1,6 @@
+syntax: glob
+Library
+Temp
+.DS_*
+.vscode
+/tmp
